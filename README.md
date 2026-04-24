@@ -1,2 +1,2 @@
 # Git-Practica
-Diego Uriel Sanchez Gutierrez 24310189
+Diego Uriel Sanchez Gutierrez
